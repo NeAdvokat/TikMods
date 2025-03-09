@@ -55,7 +55,7 @@ body::after {
 }
 
 .mem-text {
-    color white;
+    color: white;
     font-size: 34px;
 }
 
