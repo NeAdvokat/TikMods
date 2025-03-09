@@ -1,1 +1,1 @@
-<h2 href='https://neadvokat.github.io/TikMods/'>URL TikMods (Clickable)</h1>
+<h2>URL TikMods -> https://neadvokat.github.io/TikMods/</h2>
