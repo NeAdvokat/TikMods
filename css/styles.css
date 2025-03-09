@@ -54,6 +54,11 @@ body::after {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
+.mem-text {
+    color white;
+    font-size: 34px;
+}
+
 .folder-container {
     max-width: 650px;
     width: 100%;
